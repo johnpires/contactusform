@@ -31,12 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O que é o formulário de login e cadastro?
-Formulário de login significa a página ou seção de login onde os usuários precisam inserir seus detalhes de login, como e-mail e senha. O formulário de registro é o processo de registrar os detalhes do usuário para criar os detalhes de login para entrada em uma página ou site específico.
+Como você pode ver na imagem fornecida, há uma imagem no lado esquerd e o formulário no lado direito. Todos os formulários de contato são assim, os desenhos podem ser diferentes, mas o motivo principal é o mesmo. Esta determinada imagem de um formulário de contato está em forma de imagem, na verdade, eu adicionei várias animações nesse campo de entrada e botão, e este formulário de contato é totalmente responsivo.
 
-Na seção do formulário de login, podemos fazer dois campos de entrada, um é para o endereço de e-mail ou número de telefone do usuário e outro para a senha e isso é obrigatório e no formulário de registro temos que adicionar algum campo de entrada extra como o campo de entrada do nome, número de telefone, senha e outros.
-
-Agora temos uma ideia do que se trata p projeto, Vamos assistir ao vídeo tutorial :
+Se você deseja assistir a todas as animações que adicionei neste formulário de contato e todo o código de HTML e CSS , você pode acessar o link abaixo :
 
 <br>
 
