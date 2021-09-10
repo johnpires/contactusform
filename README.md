@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Como você pode ver na imagem fornecida, há uma imagem no lado esquerd e o formulário no lado direito. Todos os formulários de contato são assim, os desenhos podem ser diferentes, mas o motivo principal é o mesmo. Esta determinada imagem de um formulário de contato está em forma de imagem, na verdade, eu adicionei várias animações nesse campo de entrada e botão, e este formulário de contato é totalmente responsivo.
+Como você pode ver na imagem fornecida, há uma imagem no lado esquerda e o formulário no lado direito. Todos os formulários de contato são assim, os desenhos podem ser diferentes, mas o motivo principal é o mesmo. Esta determinada imagem de um formulário de contato está em forma de imagem, na verdade, eu adicionei várias animações nesse campo de entrada e botão, e este formulário de contato é totalmente responsivo.
 
 Se você deseja assistir a todas as animações que adicionei neste formulário de contato e todo o código de HTML e CSS , você pode acessar o link abaixo :
 
